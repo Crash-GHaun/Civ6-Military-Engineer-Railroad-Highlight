@@ -8,6 +8,7 @@
         <CompatibleVersions>2.0</CompatibleVersions>
         <SupportsMultiplayer>1</SupportsMultiplayer>
         <SupportsHotSeat>1</SupportsHotSeat>
+        <AffectsSavedGames>0</AffectsSavedGames>
     </Properties>
     <!-- Require Gathering Storm via game core criteria (avoids DLC "Mod" id lookup issues that show as Depends on LOC_EXPANSION2_TITLE). -->
     <ActionCriteria>

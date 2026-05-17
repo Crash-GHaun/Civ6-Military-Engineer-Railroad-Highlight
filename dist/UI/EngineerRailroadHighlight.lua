@@ -12,8 +12,8 @@ local m_railroadRouteIndex = -1;
 local m_highlightActive = false;
 
 -- Debug: prints to Lua.log (grep for "MERH"). Turn on while diagnosing.
-local MERH_DEBUG = true;
-local MERH_DEBUG_VERBOSE = true;
+local MERH_DEBUG = false;
+local MERH_DEBUG_VERBOSE = false;
 
 local function dbg(msg)
     if MERH_DEBUG then
